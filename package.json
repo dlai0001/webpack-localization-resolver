@@ -1,6 +1,6 @@
 {
   "name": "webpack-localization-resolver",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Localization resolver for webpack",
   "main": "index.js",
   "scripts": {

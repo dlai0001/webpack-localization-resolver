@@ -5,8 +5,7 @@ var L10N = "l10n";
 
 
 class Localize {
-  constructor(options = ) {
-    this.options = options;
+  constructor() {
   }
 
 
