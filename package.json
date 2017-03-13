@@ -1,0 +1,22 @@
+{
+  "name": "webpack-localization-resolver",
+  "version": "0.0.1",
+  "description": "Localization resolver for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "localization",
+    "webpack",
+    "internationalization"
+  ],
+  "author": "David Lai",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
+}

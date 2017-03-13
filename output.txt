@@ -1,0 +1,44 @@
+checking for localized version /Users/dlai/projects/webpack-localized/test/entry.js
+checking parts [ '/Users/dlai/projects/webpack-localized/test/entry.js',
+  '/Users/dlai/projects/webpack-localized/test/entry.',
+  'js',
+  index: 0,
+  input: '/Users/dlai/projects/webpack-localized/test/entry.js' ]
+checking for localized version en-US en US
+looking for  /Users/dlai/projects/webpack-localized/test/entry.l10n.en.US.js or /Users/dlai/projects/webpack-localized/test/entry.l10n.en.js
+checking for localized version /Users/dlai/projects/webpack-localized/test/style.css
+checking parts [ '/Users/dlai/projects/webpack-localized/test/style.css',
+  '/Users/dlai/projects/webpack-localized/test/style.',
+  'css',
+  index: 0,
+  input: '/Users/dlai/projects/webpack-localized/test/style.css' ]
+checking for localized version en-US en US
+looking for  /Users/dlai/projects/webpack-localized/test/style.l10n.en.US.css or /Users/dlai/projects/webpack-localized/test/style.l10n.en.css
+checking for localized version /Users/dlai/projects/webpack-localized/test/content.js
+checking parts [ '/Users/dlai/projects/webpack-localized/test/content.js',
+  '/Users/dlai/projects/webpack-localized/test/content.',
+  'js',
+  index: 0,
+  input: '/Users/dlai/projects/webpack-localized/test/content.js' ]
+checking for localized version en-US en US
+looking for  /Users/dlai/projects/webpack-localized/test/content.l10n.en.US.js or /Users/dlai/projects/webpack-localized/test/content.l10n.en.js
+localized version exists
+Hash: 5d40bea19e2d55fa0e72
+Version: webpack 2.2.1
+Time: 1086ms
+    Asset     Size  Chunks             Chunk Names
+bundle.js  84.4 kB       0  [emitted]  main
+   [0] ./test/style.css 899 bytes {0} [built]
+   [1] ./test/content.js 45 bytes {0} [built]
+   [2] ./~/base64-js/index.js 3.48 kB {0} [built]
+   [3] ./~/buffer/index.js 48.6 kB {0} [built]
+   [4] ./~/css-loader!./test/style.css 188 bytes {0} [built]
+   [5] ./~/css-loader/lib/convert-source-map.js 4.33 kB {0} [built]
+   [6] ./~/css-loader/lib/css-base.js 1.93 kB {0} [built]
+   [7] ./~/ieee754/index.js 2.05 kB {0} [built]
+   [8] ./~/isarray/index.js 132 bytes {0} [built]
+   [9] ./~/path-browserify/index.js 6.18 kB {0} [built]
+  [10] ./~/process/browser.js 5.3 kB {0} [built]
+  [11] ./~/style-loader/addStyles.js 6.91 kB {0} [built]
+  [12] (webpack)/buildin/global.js 509 bytes {0} [built]
+  [13] ./test/entry.js 67 bytes {0} [built]
